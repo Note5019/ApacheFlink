@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7baabdb-c851-4f07-a09d-ba84b22890ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1TUpTnr2vcBZz1nTyKik9Bqu1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Z_code\Flink\tutorials\wiki-edits\src\main\java\WordCount" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="TextInputFormat:" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordCountNoDescription">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wikiedits.HelloWorld" />
+      <module name="wiki-edits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wikiedits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikipediaAnalysisNoDescription" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wikiedits.WikipediaAnalysisNoDescription" />
+      <module name="wiki-edits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wikiedits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount.WordCount" />
+      <module name="wiki-edits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordCount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wikiedits.WordCount" />
+      <module name="wiki-edits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wikiedits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountNoDescription" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount.WordCountNoDescription" />
+      <module name="wiki-edits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WordCount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountNoDescription" />
+        <item itemvalue="Application.WikipediaAnalysisNoDescription" />
+        <item itemvalue="Application.WordCount (1)" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7baabdb-c851-4f07-a09d-ba84b22890ae" name="Default Changelist" comment="" />
+      <created>1578316119174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578316119174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578842813135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578842813135" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1578837475154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578837475154" />
+    <state width="1493" height="419" key="GridCell.Tab.0.bottom" timestamp="1578933396345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="419" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578933396345" />
+    <state width="1493" height="419" key="GridCell.Tab.0.center" timestamp="1578933396345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="419" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578933396345" />
+    <state width="1493" height="419" key="GridCell.Tab.0.left" timestamp="1578933396345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="419" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578933396345" />
+    <state width="1493" height="419" key="GridCell.Tab.0.right" timestamp="1578933396345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="419" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578933396345" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578849843976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578849843976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578849843976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578849843976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578849843976" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1578838114859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578838114859" />
+    <state x="443" y="95" width="981" height="707" key="SettingsEditor" timestamp="1578821224971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="95" width="981" height="707" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578821224971" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578932298955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578818772049" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578932298955" />
+    <state x="0" y="-1080" width="1116" height="571" maximized="true" key="dock-window-1" timestamp="1578932485824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="-1080" width="1116" height="571" maximized="true" key="dock-window-1/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578839281616" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1578316503803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1578316503803" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578820518448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1578820518448" />
+  </component>
+</project>
